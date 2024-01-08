@@ -1,0 +1,6 @@
+database:
+    filename: project-starter.db
+log:
+    filename: project-starter
+server:
+    port: 8585
